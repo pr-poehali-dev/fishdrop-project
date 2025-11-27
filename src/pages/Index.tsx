@@ -50,7 +50,7 @@ const Index = () => {
         <div className="absolute inset-0 z-0">
           <img 
             src="https://cdn.poehali.dev/projects/b7016b99-cbe0-4274-88df-77a7469d3d37/files/a63a5ca4-f032-4f30-89bd-9ee620eb85d5.jpg" 
-            alt="Blobfish in deep ocean"
+            alt="Рыба-капля в глубоком океане"
             className="w-full h-full object-cover opacity-40"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-background/50 via-background/70 to-background"></div>
@@ -159,11 +159,11 @@ const Index = () => {
               Научная классификация
             </h2>
             <div className="space-y-3 text-lg text-muted-foreground">
-              <p><span className="text-foreground font-semibold">Царство:</span> Animalia</p>
-              <p><span className="text-foreground font-semibold">Тип:</span> Chordata</p>
-              <p><span className="text-foreground font-semibold">Класс:</span> Actinopterygii</p>
-              <p><span className="text-foreground font-semibold">Отряд:</span> Scorpaeniformes</p>
-              <p><span className="text-foreground font-semibold">Семейство:</span> Psychrolutidae</p>
+              <p><span className="text-foreground font-semibold">Царство:</span> Животные</p>
+              <p><span className="text-foreground font-semibold">Тип:</span> Хордовые</p>
+              <p><span className="text-foreground font-semibold">Класс:</span> Лучепёрые рыбы</p>
+              <p><span className="text-foreground font-semibold">Отряд:</span> Скорпенообразные</p>
+              <p><span className="text-foreground font-semibold">Семейство:</span> Психролютовые</p>
               <p><span className="text-foreground font-semibold">Род:</span> Psychrolutes</p>
               <p><span className="text-foreground font-semibold">Вид:</span> P. marcidus</p>
             </div>
